@@ -1,2 +1,0 @@
-ImageCanvas$ClickListener
-ImageCanvas

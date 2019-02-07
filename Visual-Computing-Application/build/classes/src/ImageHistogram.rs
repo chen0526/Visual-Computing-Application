@@ -1,4 +1,0 @@
-ImageHistogram
-ImageHistogram$ExitListener
-PlotCanvas
-LineSegment
