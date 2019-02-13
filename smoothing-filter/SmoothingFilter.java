@@ -1,11 +1,3 @@
-/*
-    Group 19
-    Assignment1 Comp3301
-    Nicholas Atkins 201509098
-    Meheroon Nesa Tondra 201555661
-    Yusong Du 201458700
-*/
-
 import java.util.*;
 import java.awt.*;
 import java.awt.event.*;
