@@ -1,5 +1,4 @@
 // Skeletal program for the "Image Threshold" assignment
-// Written by:  Minglun Gong
 
 import java.util.*;
 import java.awt.*;
